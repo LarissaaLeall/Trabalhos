@@ -11,4 +11,5 @@ Projeto em Desktop com CSS grid, envolvendo transições e animações, feito no
 - HTML
 - CSS
 - Figma
+- Unsplash
 - Git e Github
